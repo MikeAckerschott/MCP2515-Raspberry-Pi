@@ -1,6 +1,6 @@
 # MCP2515 Raspberry Pi Integration
 
-This project is an adaptation of the [MCP2515 Arduino library](https://github.com/autowp/arduino-mcp2515), modified to replace the SPI dependency with the [bcm2835 library](https://www.airspayce.com/mikem/bcm2835/), enabling compatibility with Raspberry Pi.
+This project is an adaptation of the [MCP2515 Arduino library](https://github.com/autowp/arduino-mcp2515), modified to replace the SPI dependency with the [bcm2835 library](https://www.airspayce.com/mikem/bcm2835/), enabling compatibility with Raspberry Pi 4B.
 
 ## Installation
 
